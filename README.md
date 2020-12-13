@@ -4,7 +4,7 @@
 
 A Tailwind CSS focused project which utilizes only Tailwind to style a static landing page.
 
-![](images/readme6.gif)
+![](readme2.png)
 
 ---
 
@@ -21,13 +21,15 @@ A Tailwind CSS focused project which utilizes only Tailwind to style a static la
 
 ---
 
-## Project Highlights
+## Apply Directly into Classes
 
-Project Section | Features
------------- | -------------
-[Navigation](Navigation) | Responsive hamburger navigation at mobile view, and vertical navbar at desktop view.
-[Main: Code Tag](Main1) | Code elements allow users to review example codes.
+- Flexbox: ```class="flex justify-between items-center"```
 
+- Hover: ```class="hover:text-green-100"```
+
+- Transitions: ```class="transition ease-in duration-150```
+
+- Media Queries: ```class="md:flex"```
 
 ---
 
