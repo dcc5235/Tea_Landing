@@ -9,17 +9,15 @@ A Tailwind CSS focused project which utilizes only Tailwind to style a static la
 ---
 
 ## Installations
-- Link tailwind [cdn](https://cdnjs.com/libraries/tailwindcss)
-- you can also install tailwind as a [npm package](https://tailwindcss.com/)
-- vs code autocompletion classes are available (Tailwind CSS IntelliSense
-bradlc.vscode-tailwindcss
-) but you can view classes on [tailwind documentation](https://tailwindcss.com/docs)
+- Link Tailwind [CDN](https://cdnjs.com/libraries/tailwindcss) to HTML.
+- You can also install Tailwind as a [npm package](https://tailwindcss.com/).
+- VS Code autocompletion classes are available - install Tailwind CSS IntelliSense, or view classes on the Tailwind [documentation](https://tailwindcss.com/docs).
 
 ---
 
 ## Notes
-- no custom CSS required; classes can be written inline
-- can be applied in CSS using ```@apply```
+- No custom CSS required; classes can be written inline.
+- To apply to a CSS styleshhet, simply use ```@apply```. See documentation [here](https://github.com/tailwindlabs/tailwindcss/pull/2159).
 
 ---
 
@@ -27,15 +25,14 @@ bradlc.vscode-tailwindcss
 
 Project Section | Features
 ------------ | -------------
-[Navigation](#Navigation) | Responsive hamburger navigation at mobile view, and vertical navbar at desktop view.
-[Main: Code Tag](#Main1) | Code elements allow users to review example codes.
-[Main: Span Tag](#Main2) | Span elements allow specific text to be styled in relation to example codes.
-[Main: Table Tag](#Main3) | Table elements allow users to view table examples where every other row is defined by a different color.
+[Navigation](Navigation) | Responsive hamburger navigation at mobile view, and vertical navbar at desktop view.
+[Main: Code Tag](Main1) | Code elements allow users to review example codes.
+
 
 ---
 
 ## Credits
-- Icons using [Icon Finder](https://www.iconfinder.com/)
+- Icons from [Icon Finder](https://www.iconfinder.com/)
 
 ---
 
