@@ -31,6 +31,8 @@ A Tailwind CSS focused project which utilizes only Tailwind to style a static la
 
 - Media Queries: ```class="md:flex"```
 
+![](readme1.png)
+
 ---
 
 ## Credits
