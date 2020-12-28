@@ -17,7 +17,7 @@ A Tailwind CSS focused project which utilizes only Tailwind to style a static la
 
 ## Notes
 - No custom CSS required; classes can be written inline.
-- To apply to a CSS styleshhet, simply use ```@apply```. See documentation [here](https://github.com/tailwindlabs/tailwindcss/pull/2159).
+- To apply to a CSS stylesheet, simply use ```@apply```. See documentation [here](https://github.com/tailwindlabs/tailwindcss/pull/2159).
 
 ---
 
@@ -37,6 +37,7 @@ A Tailwind CSS focused project which utilizes only Tailwind to style a static la
 
 ## Credits
 - Icons from [Icon Finder](https://www.iconfinder.com/)
+- Images from [Pexels](https://www.pexels.com/)
 
 ---
 
